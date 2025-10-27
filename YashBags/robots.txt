@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://yashbags-site.s3-website.ap-south-1.amazonaws.com/sitemap.xml
